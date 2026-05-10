@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dr. Seetharam Kumar",
+    "qual": "BDS, MDS — Periodontics & Implantology",
+    "bio": "With over a decade in clinical practice, Dr. Seetharam leads implant, periodontal and smile-design work at Cosmedent. He believes in imaging-led diagnostics, transparent treatment plans and taking the time to explain every option.",
+    "tags": ["Periodontics", "Implantology", "Smile Design", "Full-Mouth Rehab"]
+  },
+  {
+    "name": "Dr. DV Suneetha",
+    "qual": "BDS",
+    "bio": "Dr. Suneetha leads restorative and family care at the clinic. Known for her calm, patient-first approach, she handles everything from routine care to root canal therapy and paediatric visits with equal attentiveness.",
+    "tags": ["Restorative", "Pediatric", "Aesthetic Fillings", "Preventive Care"]
+  }
+]

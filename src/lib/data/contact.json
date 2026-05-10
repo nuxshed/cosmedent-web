@@ -1,0 +1,12 @@
+{
+  "address": "Shop 8, Nagarjuna Homes, Nizampet Road, Hyderabad.",
+  "landmark": "Opposite Vertex Sadguru Apartments.",
+  "phone": "+91 — — — — — — — — — —",
+  "phoneraw": "+919999999999",
+  "whatsapp": "https://wa.me/919999999999",
+  "hours": [
+    { "day": "Monday – Friday", "time": "10:00 — 20:00" },
+    { "day": "Saturday", "time": "10:00 — 18:00" },
+    { "day": "Sunday", "time": "By appointment" }
+  ]
+}
