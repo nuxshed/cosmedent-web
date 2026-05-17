@@ -30,8 +30,8 @@
 
 <style>
 	.fab {
-		position: fixed; right: 24px; bottom: 24px; z-index: 60;
-		display: flex; flex-direction: column-reverse; gap: 12px; align-items: flex-end;
+		position: fixed; left: 24px; bottom: 24px; z-index: 60;
+		display: flex; flex-direction: column-reverse; gap: 12px; align-items: flex-start;
 	}
 	.btn {
 		width: 52px; height: 52px; border-radius: 50%;
@@ -49,8 +49,8 @@
 	.btn.primary:hover { background: #2c5a40; border-color: #2c5a40; transform: translateY(-2px); }
 	.btn.whatsapp:hover { color: #25D366; border-color: #25D366; }
 	.tip {
-		position: absolute; right: 68px; top: 50%;
-		transform: translateY(-50%) translateX(6px);
+		position: absolute; left: 68px; top: 50%;
+		transform: translateY(-50%) translateX(-6px);
 		background: #15201a; color: #fbf9f4;
 		font-size: 12px; padding: 6px 12px; border-radius: 999px;
 		white-space: nowrap; opacity: 0; pointer-events: none;
@@ -58,5 +58,5 @@
 	}
 	.btn:hover .tip { opacity: 1; transform: translateY(-50%) translateX(0); }
 
-	@media (max-width: 720px) { .fab { right: 16px; bottom: 16px; } }
+	@media (max-width: 720px) { .fab { left: 16px; bottom: 16px; } }
 </style>
