@@ -44,6 +44,7 @@ export interface Contact {
   address: string;
   landmark: string;
   phone: string;
+  phoneraw: string;
   whatsapp: string;
   hours: Hours[];
 }
